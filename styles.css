@@ -1,5 +1,4 @@
 video{
- width:50%;
- height:50%;
-  
+ min-width:50%;
+ min-height:50%;
 }
