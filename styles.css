@@ -4,4 +4,8 @@ video{
     bottom: 0;
     min-width: 100%;
     min-height: 100%;
-  }
+}
+
+@media only screen and (min-width: 768px) {
+    video{min-width:50%}
+}
