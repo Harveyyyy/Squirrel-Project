@@ -7,5 +7,5 @@ video{
 }
 
 @media only screen and (min-width: 768px) {
-    video{min-width:50%}
+    video{min-width:50%;}
 }
